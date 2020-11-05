@@ -10,21 +10,17 @@ Build my first app using an API. Retrieve data from a third-party weather API (O
 
 Build a weather dashboard application with search functionality to find current weather conditions and the future weather outlook for multiple cities. 
 
-[Deployed Link]  
+## Getting started and deployment
 
-## App Demo
+This site can be accessed by clicking the link below:
 
-### User Input - click search 
-![User Input](images/SEARCH-weather.PNG)
+https://gonzy94.github.io/Updated-Portfolio/
 
-### Displayed City Search 
-![Display Search](images/DISPLAY-weather.PNG)
+## Built With
+* HTML
+* CSS
+* JAVASCRIPT
 
-### Saved Recent Searches
-![Save Search](images/SAVED-weather.PNG)
+## Created by
 
-### Technologies Used 
-- JavaScript
-- OpenWeather API
-- HTML
-
+Edgar Gonzalez / UCR Extension Program Coding Bootcamp Student

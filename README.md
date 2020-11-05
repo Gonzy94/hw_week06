@@ -13,8 +13,7 @@ Build a weather dashboard application with search functionality to find current 
 ## Getting started and deployment
 
 This site can be accessed by clicking the link below:
-
-https://gonzy94.github.io/Updated-Portfolio/
+https://gonzy94.github.io/hw_week06/
 
 ## Built With
 * HTML
